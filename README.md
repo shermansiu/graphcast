@@ -1,5 +1,8 @@
 # GraphCast: Learning skillful medium-range global weather forecasting
 
+Note: Inference can take up to 18 GB of RAM and 19 GB of VRAM.
+
+---
 This package contains example code to run and train [GraphCast](https://arxiv.org/abs/2212.12794).
 It also provides three pretrained models:
 
