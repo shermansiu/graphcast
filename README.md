@@ -18,7 +18,7 @@ pressure levels) pre-trained on ERA5 data from 1979 to 2017 and fine-tuned on
 HRES data from 2016 to 2021. This model can be initialized from HRES data (does
 not require precipitation inputs).
 
-The model weights, normalization statistics, and example inputs are available on [Google Cloud Bucket](https://console.cloud.google.com/storage/browser/dm_graphcast).
+The model weights, normalization statistics, and example inputs are available on [Google Cloud Bucket](https://console.cloud.google.com/storage/browser/dm_graphcast) and [Huggingface Hub](https://huggingface.co/collections/shermansiu/deepmind-graphcast-658be928925aadd433065afd).
 
 Full model training requires downloading the
 [ERA5](https://www.ecmwf.int/en/forecasts/datasets/reanalysis-datasets/era5)
